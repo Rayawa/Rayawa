@@ -9,4 +9,5 @@
 - 👯 I’m contributing on Sweet Potato Mod
 - 🤔 I’m looking for help with @teddyxlandlee
 - 💬 My QQ is 171078364
-- 📫 How to reach me: Rayawa.work@gmail.com
+- 💬 My Twitter is [Rayawa_](https://twitter.com/Rayawa_)
+- 📫 How to reach me: Rayawa.work@gmail.com | 171078364@qq.com 

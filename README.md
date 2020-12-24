@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=ayu-mirage" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=calm" /> 
 
 ## Hi there👋 it's Ray! 
 

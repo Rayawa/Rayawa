@@ -4,7 +4,7 @@
 
 
 - :tv: See Sweet Potato Mod on [GitHub](https://github.com/Rayawa/sweet_potato), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=sweet_potato)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=sweet_potato&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on Minecraft Fabric Modding.
 - 🌱 I’m currently learning git.
 - 👯 I’m contributing on Sweet Potato Mod. My partner is [@teddyxlandlee](https://github.com/teddyxlandlee).

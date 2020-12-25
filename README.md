@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=vue&count_private=true" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=graywhite&count_private=true" /> 
 
 ## Hi there👋 it's Ray! 
 

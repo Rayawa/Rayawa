@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning git.
 - 👯 I’m contributing on Sweet Potato Mod. My partner is [@teddyxlandlee](https://github.com/teddyxlandlee).
 
--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=sweet_potato&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 

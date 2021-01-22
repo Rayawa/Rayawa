@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=graywhite&count_private=true" /> 
 
 ## Hi there👋 it's Ray! 
-#### I've put my Minecraft public files in [Rayawa/Minecraft-pubfile](https://github.com/Rayawa/Rayawa).
+#### I've put my Minecraft public files in [Rayawa/Rayawa](https://github.com/Rayawa/Rayawa).
 #### I've download all Fabric Minecraft versions in [RayawaMinecraft-versions](https://github.com/Rayawa/Minecraft-versions).
 > Fabric Minecraft versions: 1.17-1.14 Snapshots, Release Candidates, Prereleases and Releases  
 

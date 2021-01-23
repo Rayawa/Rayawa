@@ -2,7 +2,7 @@
 
 ## Hi there👋 it's Ray! 
 #### I've put my Minecraft public files in [Rayawa/Rayawa](https://github.com/Rayawa/Rayawa).
-#### I've download all Fabric Minecraft versions in [RayawaMinecraft-versions](https://github.com/Rayawa/Minecraft-versions).
+#### I've download all Fabric Minecraft versions in [Rayawa/Minecraft-versions](https://github.com/Rayawa/Minecraft-versions).
 > Fabric Minecraft versions: 1.17-1.14 Snapshots, Release Candidates, Prereleases and Releases  
 
 - :tv: See Sweet Potato Mod on [GitHub](https://github.com/Rayawa/sweet_potato), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).

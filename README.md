@@ -5,13 +5,16 @@
 #### I've download all Fabric Minecraft versions in [Rayawa/Minecraft-versions](https://github.com/Rayawa/Minecraft-versions).
 > Fabric Minecraft versions: 1.17-1.14 Snapshots, Release Candidates, Pre-releases and Releases  
 
-- :tv: See Sweet Potato Mod on [GitHub](https://github.com/Rayawa/sweet_potato), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
+- :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 
 - 🔭 I’m currently working on Minecraft Fabric Modding.
-- 🌱 I’m currently learning git.
-- 👯 I’m contributing on Sweet Potato Mod. My partner is [@teddyxlandlee](https://github.com/teddyxlandlee) , [@Crystal_PS](https://github.com/Crystal-PS).
+- 🌱 I’m currently learning HTML5.
+- 👯 I’m contributing to Sweet Potato Mod. My partner is [@teddyxlandlee](https://github.com/teddyxlandlee) .
+- 👯 I’m contributing to SR. My partner is [@shenjackyuanjie](https://github.com/shenjackyuanjie)
 
 -[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=featurehouse.github.io&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=SR&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 
@@ -23,4 +26,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayawa)](https://github.com/anuraghazra/github-readme-stats)

@@ -15,6 +15,7 @@
 -[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 -[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=featurehouse.github.io&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 -[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=SR&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Minecraft_Science_Tree&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 

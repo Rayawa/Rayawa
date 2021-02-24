@@ -8,7 +8,7 @@
 - :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 
 - 🔭 I’m currently working on Minecraft Fabric Modding.
-- 🌱 I’m currently learning HTML5.
+- 🌱 I’m currently learning HTML5, JavaScript, CSS, Java, Python.
 - 👯 I’m contributing to Sweet Potato Mod. My partner is [@teddyxlandlee](https://github.com/teddyxlandlee) .
 - 👯 I’m contributing to SR. My partner is [@shenjackyuanjie](https://github.com/shenjackyuanjie)
 
@@ -23,7 +23,7 @@
 - :film_projector: Bilibili [一颗水晶Rayawa](https://space.bilibili.com/524181098).
 - 💬 My QQ is 171078364.
 - 💬 My Twitter is [Rayawa_](https://twitter.com/Rayawa_).
-- 📫 How to reach me: Rayawa.work@gmail.com | 171078364@qq.com .
+- 📫 How to reach me: Rayawa.work@gmail.com | 171078364@vip.qq.com .
 
 
 

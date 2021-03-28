@@ -10,7 +10,7 @@ void o(string a)
     for(int i=0;i<a.length();i++)
     {        
         cout<<a[i];
-        usleep(6000);
+        usleep(8000);
     }
     cout<<endl;
      
@@ -26,8 +26,8 @@ void slow(const string line,int t)
 int main()
 {
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_INTENSITY | FOREGROUND_GREEN);
+	sleep(2);
 	system("cls");
-	sleep(7); 
 	o("Booting...");
 	sleep(1);
 	o("[  OK  ] Rcached target Paths.");
@@ -59,11 +59,36 @@ int main()
 	cout<<endl;
 	sleep(1);
 	o("Hi, Rayawa!");
-	o("Last login: 2021-01-29T 21:38:36 +08:00 in Beijing, China");
-	cout <<endl<<endl;
+	o("Last login: 2021-01-10T 11:42:36 +08:00 in Beijing, China");
+	sleep(1);
+	cout<<endl;
+	o("Now Loading files...");
+	sleep(1);
+	o("Enumerating objects: 13, done.");
+	o("Counting objects: 100% (13/13), done.");
+	o("Delta compression using up to 4 threads.");
+	o("Compressing objects: 100% (13/13).");
+	o("Doneuriting obiects: 100% (13/13), 8.16 MiB | 1.5 MiB/s, done.");
+	o("Total 13 (delta 0), reused 0 (delta 0), pack-reused 0");
+	cout<<endl;
+	o("Files Loaded!");
+	sleep(2);
+	
+	//cls
+	system("cls");
 	o("Connecting...");
 	sleep(1);
 	o("Welcome to Pigenia Featurehouse! You are connected to: Featurehouse-Author");
+	cout<<endl;
+	o("Find 6 repositories | 1 web");
+	o("std::output-repository = Featurehouse/sweet_potato-source");
+	o("std::output-repository = Featurehouse/sweet_potato-source-specialRelease");
+	o("std::output-repository = Featurehouse/sweet_potato-release");
+	o("std::output-repository = Featurehouse/sweet_potato-pubfile");
+	o("std::output-repository = Featurehouse/Featurehouse.github.io");
+	o("std::output-repository = Featurehouse/sweet_potato-issueTracker");
+	cout<<endl;
+	o("std::output-web = Featurehouse.github.io");
 	cout<<endl;
 	o("std::output-webs 3:");
 	o("[  OK  ] https://github.com/Featurehouse/sweet_potato-release");

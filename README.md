@@ -2,8 +2,8 @@
 
 ## Hi there👋 it's Ray! 
 #### I've put my Minecraft public files in [Rayawa/Rayawa](https://github.com/Rayawa/Rayawa).
-#### I've download all Fabric Minecraft versions in [Rayawa/Minecraft-versions](https://github.com/Rayawa/Minecraft-versions).
-> Fabric Minecraft versions: 1.17-1.14 Snapshots, Release Candidates, Pre-releases and Releases  
+// #### I've download all Fabric Minecraft versions in [Rayawa/Minecraft-versions](https://github.com/Rayawa/Minecraft-versions).
+// > Fabric Minecraft versions: 1.17-1.14 Snapshots, Release Candidates, Pre-releases and Releases  
 ### My Minecraft Java ID is ```Rayawa```.
 - :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 
@@ -20,10 +20,10 @@
 --------------------------------
 
 - :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg).
-- :film_projector: Bilibili [一颗水晶Rayawa](https://space.bilibili.com/524181098).
+- :film_projector: Bilibili [Ray汐](https://space.bilibili.com/524181098).
 - 💬 My QQ is 171078364.
 - 💬 My Twitter is [Rayawa_](https://twitter.com/Rayawa_).
-- 📫 How to reach me: Rayawa.work@gmail.com | 171078364@vip.qq.com .
+- 📫 How to reach me: Rayawa.work@gmail.com | 171078364@qq.com .
 
 
 

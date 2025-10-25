@@ -1,21 +1,18 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=graywhite&count_private=true" /> 
-
 ## Hi there👋 it's Ray! 
-#### I've put my Minecraft public files in [Rayawa/Rayawa](https://github.com/Rayawa/Rayawa).
-// #### I've download all Fabric Minecraft versions in [Rayawa/Minecraft-versions](https://github.com/Rayawa/Minecraft-versions).
-// > Fabric Minecraft versions: 1.17-1.14 Snapshots, Release Candidates, Pre-releases and Releases  
-### My Minecraft Java ID is ```Rayawa```.
-- :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
+### I am currently pursuing a degree in Communication Engineering at North China University of Technology, while actively working on software development for HarmonyOS.
+### My repository features a collection of personal and collaborative projects, including ArkTS-based applications and contributions to projects forked from [Featurehouse](https://github.com/Featurehouse) and [shenjack](https://github.com/shenjackyuanjie).
+### My Minecraft Java ID is ```Rayawa```. 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=dark&count_private=true" /> 
 
-- 🔭 I’m currently working on Minecraft Fabric Modding.
-- 🌱 I’m currently learning HTML5, JavaScript, CSS, Java, Python.
-- 👯 I’m contributing to Sweet Potato Mod. My partner is [@teddyxlandlee](https://github.com/teddyxlandlee) .
+- 🔭 I’m currently working on HarmonyOS software development (6.0.0).
+- 🌱 At the moment, I am deepening my knowledge of ArkTS and Rust, and I also plan to start learning Cangjie development in the near future.
+- 👯 I’m contributing to Sweet Potato Mod with [@teddyxlandlee](https://github.com/teddyxlandlee) , :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 - 👯 I’m contributing to Difficlut Rocket. My partner is [@shenjackyuanjie](https://github.com/shenjackyuanjie)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=sweet_potato-release&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=featurehouse.github.io&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Difficult-Rocket&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Minecraft_Science_Tree&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=dashboard&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=featurehouse.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Difficult-Rocket&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=My-Application&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 

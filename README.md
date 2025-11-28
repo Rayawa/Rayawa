@@ -4,12 +4,12 @@
 ### My Minecraft Java ID is ```Rayawa```. 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=dark&count_private=true" /> 
 
-- 🔭 I’m currently working on HarmonyOS software development (6.0.0).
+- 🔭 I’m currently working on HarmonyOS software development (6.0.0). I'm developing two HarmonyOS Applications.
 - 🌱 At the moment, I am deepening my knowledge of ArkTS and Rust, and I also plan to start learning Cangjie development in the near future.
 - 👯 I’m contributing to Sweet Potato Mod with [@teddyxlandlee](https://github.com/teddyxlandlee) , :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 - 👯 I’m contributing to Difficlut Rocket. My partner is [@shenjackyuanjie](https://github.com/shenjackyuanjie)
 
-- - :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg).
+- :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg).
 - :film_projector: Bilibili [Ray汐](https://space.bilibili.com/524181098).
 - 📫 How to reach me: rayawa.work@outlook.com | rayawa.work@gmail.com | QQ:2265695303 .
 

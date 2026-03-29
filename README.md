@@ -4,8 +4,9 @@
 ### My Minecraft Java ID is ```Rayawa```. 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=dark&count_private=true" /> 
 
-- 🔭 I’m currently working on HarmonyOS software development (6.0.0). I'm developing two HarmonyOS Applications.
-- 🌱 At the moment, I am deepening my knowledge of ArkTS and Rust, and I also plan to start learning Cangjie development in the near future.
+- 🔭 I’m currently working on HarmonyOS software development (6.1.0). I'm developing two HarmonyOS Applications.
+- 🔭 I’m also working on OpenHarmoy embedded development based on Hi3861.
+- 🌱 At the moment, I am deepening my knowledge of Java and Rust, and I also plan to start learning Cangjie development in the near future.
 - 👯 I’m contributing to Sweet Potato Mod with [@teddyxlandlee](https://github.com/teddyxlandlee) , :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
 - 👯 I’m contributing to Difficlut Rocket. My partner is [@shenjackyuanjie](https://github.com/shenjackyuanjie)
 
@@ -14,7 +15,7 @@
 - 📫 How to reach me: rayawa.work@outlook.com | rayawa.work@gmail.com | QQ:2265695303 .
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=dashboard&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=Hi3861&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Featurehouse&repo=featurehouse.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Difficult-Rocket&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=zhiwu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

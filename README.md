@@ -18,7 +18,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=Hi3861&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=Rayawa.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Difficult-Rocket&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=dashboard.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=dashboard.rayawa.top&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------
 

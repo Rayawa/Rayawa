@@ -1,27 +1,91 @@
-## Hi there👋 it's Ray! 
-## Visit my website at [rayawa.top](https://rayawa.top/en/)
-### I am currently pursuing a degree in Communication Engineering at North China University of Technology, while actively working on software development for HarmonyOS.
-### My repository features a collection of personal and collaborative projects, including ArkTS-based applications and contributions to projects forked from [Featurehouse](https://github.com/Featurehouse) and [shenjack](https://github.com/shenjackyuanjie).
-### My Minecraft Java ID is ```Rayawa```. 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rayawa&show_icons=true&theme=dark&count_private=true" /> 
 
-- 🔭 I’m currently working on HarmonyOS software development (6.1.0). I'm developing two HarmonyOS Applications.
-- 🔭 I’m also working on OpenHarmoy embedded development based on Hi3861.
-- 🌱 At the moment, I am deepening my knowledge of Java and Rust, and I also plan to start learning Cangjie development in the near future.
-- 👯 I’m contributing to Sweet Potato Mod with [@teddyxlandlee](https://github.com/teddyxlandlee) , :tv: See Sweet Potato Mod on [GitHub](https://github.com/Featurehouse/sweet_potato-release), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sweet-potato) or [MCBBS](https://www.mcbbs.net/thread-1132119-1-1.html).
-- 👯 I’m contributing to Difficlut Rocket. My partner is [@shenjackyuanjie](https://github.com/shenjackyuanjie)
+# Hi there 👋, I'm Ray
+> Everything is possible by code.
+### Computer Science student at North China University of Technology
 
-- :clapper: YouTube channel [Rayawa](https://www.youtube.com/channel/UCzteF7MFZq-w7UM1isUfAhg).
-- :film_projector: Bilibili [Ray汐](https://space.bilibili.com/524181098).
-- 📫 How to reach me: rayawa.work@outlook.com | rayawa.work@gmail.com | QQ:2265695303 .
+I'm currently focused on HarmonyOS application development, Huawei Ascend AI, edge AI and intelligent devices.
+My development experience spans application software, embedded systems, OpenHarmony, AI inference and hardware–software integration.
+I'm currently expanding my focus from traditional software development toward AI systems, edge intelligence and intelligent devices, while actively exploring recent developments in AI.
+
+My personal page: 🌐 [rayawa.top](https://rayawa.top/) · Contact me at: 📫 [rayawa.work@outlook.com](mailto:rayawa.work@outlook.com)
+
+## 🔭 Current Focus
+
+- 📱 **HarmonyOS** — ArkTS, ArkUI, ArkWeb and native application development
+- 🧠 **Ascend AI** — CANN, MindSpore, AscendCL, AI inference and edge AI
+- ⚙️ **OpenHarmony & Embedded** — Hi3861, Ascend platforms, sensors and device integration
+- 🤖 **Intelligent Devices** — computer vision, robotics and hardware–software systems
+- 🌱 Currently learning more about **AI, Rust, C++ and systems development**
+- 🎓 **HCIA-AI Certified**
+
+<br clear="right"/>
+
+## 🛠 Tech Stack
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=Hi3861&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=Rayawa.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shenjackyuanjie&repo=Difficult-Rocket&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayawa&repo=dashboard.rayawa.top&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+**Languages**
+![ArkTS](https://img.shields.io/badge/ArkTS-HarmonyOS-0A59F7?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
---------------------------------
 
+**Platforms & Technologies**
+![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=flat-square)
+![OpenHarmony](https://img.shields.io/badge/OpenHarmony-1E88E5?style=flat-square)
+![Huawei Ascend](https://img.shields.io/badge/Huawei_Ascend-C7000B?style=flat-square)
+![CANN](https://img.shields.io/badge/CANN-AI_Compute-C7000B?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-111F68?style=flat-square)
+![Web](https://img.shields.io/badge/Web-Development-4285F4?style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayawa)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=dashboard&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=dashboard&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=AstraPlusCar-src&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=AstraPlusCar-src&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=SmartShed-HarmonyOS&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=SmartShed-HarmonyOS&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=WeekSignal&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=WeekSignal&theme=light_github_repocard" alt="Readme Card" />
+    </picture>
+  </a>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rayawa&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rayawa&langs_count=4&theme=dark_github" alt="Top Langs" />
+  </picture>
+
+---
+
+### Also interested in
+**AI for Science · Bioinformatics · Mobile Development · Embedded Systems · Robotics · Photography**
+

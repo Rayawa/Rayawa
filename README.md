@@ -52,10 +52,10 @@ My personal page: 🌐 [rayawa.top](https://rayawa.top/) · Contact me at: 📫 
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=AstraPlusCar-src&theme=dark_github_repocard"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=AstraPlusCar-device&theme=dark_github_repocard"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=AstraPlusCar-src&theme=light_github_repocard" alt="Readme Card" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=AstraPlusCar-device&theme=light_github_repocard" alt="Readme Card" />
     </picture>
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">

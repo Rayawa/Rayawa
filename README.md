@@ -22,7 +22,6 @@ My personal page: 🌐 [rayawa.top](https://rayawa.top/) · Contact me at: 📫 
 
 ## 🛠 Tech Stack
 
-
 **Languages**
 ![ArkTS](https://img.shields.io/badge/ArkTS-HarmonyOS-0A59F7?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -76,7 +75,9 @@ My personal page: 🌐 [rayawa.top](https://rayawa.top/) · Contact me at: 📫 
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=WeekSignal&theme=light_github_repocard" alt="Readme Card" />
     </picture>
   </a>
+  
 ---
+
 ### Also interested in
 **AI for Science · Bioinformatics · Mobile Development · Embedded Systems · Robotics · Photography**
 

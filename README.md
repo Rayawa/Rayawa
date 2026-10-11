@@ -76,16 +76,7 @@ My personal page: 🌐 [rayawa.top](https://rayawa.top/) · Contact me at: 📫 
       <img src="https://github-stats-extended.vercel.app/api/pin/?username=Rayawa&repo=WeekSignal&theme=light_github_repocard" alt="Readme Card" />
     </picture>
   </a>
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rayawa&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rayawa&langs_count=4&theme=dark_github" alt="Top Langs" />
-  </picture>
-
 ---
-
 ### Also interested in
 **AI for Science · Bioinformatics · Mobile Development · Embedded Systems · Robotics · Photography**
 

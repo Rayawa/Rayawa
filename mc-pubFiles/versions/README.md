@@ -1,3 +1,4 @@
-# Versioned Minecraft Resources
+# Minecraft.Rayawa-publicfiles
+Rayawa's public Minecraft public files repository, version.
 
-This directory retains version-specific public resources. Its contents are archival and have no repository-wide installation command.
+"Version" wan been moved to [Rayawa/Minecraft-versions](https://github.com/Rayawa/Minecraft-versions).
